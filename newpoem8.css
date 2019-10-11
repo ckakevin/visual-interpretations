@@ -1,0 +1,21 @@
+body {
+  background-color: #f396ff;
+  font-family: arial;
+  font-style: italic;
+}
+
+h1{
+  color: white;
+  font-family: century gothic;
+  text-transform: lowercase;
+  text-align: right;
+}
+
+#poetry{
+  border: solid black 5px;
+  box-sizing: border-box;
+}
+
+.middle{
+  text-align: right;
+}

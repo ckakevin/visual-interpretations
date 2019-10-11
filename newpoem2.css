@@ -1,0 +1,12 @@
+body{
+background-image: url("fog.jpg");
+writing-mode: vertical-rl;
+text-orientation: upright;
+font-family: courier;
+font-size: 15px;
+color: white;
+}
+
+#header{
+  color:black;
+}

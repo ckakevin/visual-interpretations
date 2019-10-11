@@ -1,0 +1,52 @@
+* {
+ box-sizing: border-box;
+}
+
+body {
+ font-family: century gothic;
+}
+
+.header {
+ animation-name: bg-color;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+ padding: 30px;
+ text-align: center;
+ font-size: 35px;
+}
+
+.column {
+ float: left;
+ width: 33.33%;
+ padding: 10px;
+ height: 300px;
+ animation-name: animation;
+ animation-duration: 60s;
+ animation-fill-mode: forwards;
+}
+
+
+.row:after {
+ content: "";
+ display: table;
+ clear: both;
+}
+
+
+@keyframes bg-color{
+  from{background-color: pink;
+
+  }
+  to{background-color: blue;
+
+  }
+}
+
+@keyframes animation {
+  from{font-size: 20px;
+
+  }
+  to{font-size: 500px;
+
+  }
+}

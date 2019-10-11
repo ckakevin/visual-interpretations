@@ -1,0 +1,31 @@
+body {
+  color: white;
+  font-size: 130%;
+  line-height: 1.4;
+  background-image: url("clouds.jpg");
+}
+
+h3 {
+  font-size: 30px;
+  writing-mode: vertical-rl;
+  height: 4em;
+  font-family: century gothic;
+  color: #DA0404;
+}
+
+.align{
+text-align: center;
+font-family: helvetica;
+font-style: italic;
+font-size: 25px;
+line-height: 55px;
+}
+
+.borderline{
+    border: solid black 5px;
+}
+
+#header{
+  font-family: verdana;
+  color: black;
+}

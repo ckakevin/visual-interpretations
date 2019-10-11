@@ -1,0 +1,23 @@
+body {
+  color: white;
+  font-size: 130%;
+  line-height: 1.4;
+  background-image: url("pose.jpg");
+}
+
+h1 {
+  font-size: 30px;
+  writing-mode: vertical-rl;
+  height: 4em;
+  font-family: century gothic;
+  color: #DA0404;
+}
+
+.change{
+  text-align: right;
+  padding-right: 199px;
+  font-size: 14px;
+  color: black;
+  line-height: 45px;
+  text-transform: uppercase;
+}

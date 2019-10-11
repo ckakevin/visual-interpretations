@@ -1,0 +1,34 @@
+body{
+    background-image: linear-gradient(white, black);
+}
+.change {
+  transform:rotate(-180deg);
+}
+
+.opposite{
+color: white;
+}
+
+h1{
+  text-transform: full-width;
+  letter-spacing: 25px;
+}
+#header{
+color: white;
+}
+#firstverse{
+  font-size: 35px;
+  line-height: 40px;
+}
+
+#second{
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+}
+
+#third{
+  font-size: 15px;
+  line-height: 20px;
+  text-align: right;
+}
